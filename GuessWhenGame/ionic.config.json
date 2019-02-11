@@ -1,0 +1,7 @@
+{
+  "name": "GuessWhenGame",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
